@@ -1,0 +1,17 @@
+
+
+
+
+path: '/content/gdrive/My Drive/Dataset' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: compressor
+  1: base_plate
+  2: wire
+  
+
+
+ 
